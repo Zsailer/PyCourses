@@ -1,4 +1,3 @@
-PyCourses
-=========
+# PyCourses
 
-Interactive lessons for teaching scientific computing in Python
+PyCourses is a set of Interactive Python notebooks that seek to teach scientific computing in Python. 
